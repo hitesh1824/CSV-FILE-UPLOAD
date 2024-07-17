@@ -20,29 +20,3 @@ CSV Upload File which built using Nodejs, Ejs , CSS , JavaScript.It is responsiv
     npm start
     Open [http://localhost:8500] view
 ```
-
-## Packages Install
-- express-ejs-layouts <br/>
-- dotenv<br/>
-- ejs<br/>
-- express<br/>
-- mongoose<br/>
-- nodemon<br/>
-- express-session<br/>
-- multer <br/>
-- papaparse <br/ >
-- connect-flash <br />
-<br/>
-
-## 💻  Screen
-
-### CSV Upload File
-
-![Screenshot (329)](https://github.com/ajaykumar2pp/CSV-Upload-File-Nodejs/assets/102378038/c0359b93-7496-47cf-bc96-8f48a8d4105e)
-
-
-
-
-
-
-
